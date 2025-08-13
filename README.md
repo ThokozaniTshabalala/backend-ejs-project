@@ -29,9 +29,5 @@ or, if you have nodemon installed:
 nodemon index.js
 
 ## Project structure
-.
-├── views/             # EJS templates
-├── public/            # Static assets (CSS, images, JS)
-├── index.js           # Server entry point
-├── package.json       # Project dependencies and scripts
-└── README.md          # Project documentation
+<img width="488" height="160" alt="image" src="https://github.com/user-attachments/assets/86f5fd59-e5c8-4278-b0b1-11a538db8f22" />
+
